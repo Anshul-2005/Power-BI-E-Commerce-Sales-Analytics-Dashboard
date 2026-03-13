@@ -90,11 +90,11 @@ Tooltip insights include:
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](executive_overview.png)
 
 ### Product & Market Analysis
 
-![Product Market Analysis](screenshots/product_market_analysis.png)
+![Product Market Analysis](product_market_analysis.png)
 
 ---
 
